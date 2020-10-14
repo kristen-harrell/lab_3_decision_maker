@@ -1,0 +1,13 @@
+C:\Users\harre\source\repos\Lab_3_decision_maker\Lab_3_decision_maker\bin\Debug\netcoreapp3.1\Lab_3_decision_maker.exe
+C:\Users\harre\source\repos\Lab_3_decision_maker\Lab_3_decision_maker\bin\Debug\netcoreapp3.1\Lab_3_decision_maker.deps.json
+C:\Users\harre\source\repos\Lab_3_decision_maker\Lab_3_decision_maker\bin\Debug\netcoreapp3.1\Lab_3_decision_maker.runtimeconfig.json
+C:\Users\harre\source\repos\Lab_3_decision_maker\Lab_3_decision_maker\bin\Debug\netcoreapp3.1\Lab_3_decision_maker.runtimeconfig.dev.json
+C:\Users\harre\source\repos\Lab_3_decision_maker\Lab_3_decision_maker\bin\Debug\netcoreapp3.1\Lab_3_decision_maker.dll
+C:\Users\harre\source\repos\Lab_3_decision_maker\Lab_3_decision_maker\bin\Debug\netcoreapp3.1\Lab_3_decision_maker.pdb
+C:\Users\harre\source\repos\Lab_3_decision_maker\Lab_3_decision_maker\obj\Debug\netcoreapp3.1\Lab_3_decision_maker.csprojAssemblyReference.cache
+C:\Users\harre\source\repos\Lab_3_decision_maker\Lab_3_decision_maker\obj\Debug\netcoreapp3.1\Lab_3_decision_maker.AssemblyInfoInputs.cache
+C:\Users\harre\source\repos\Lab_3_decision_maker\Lab_3_decision_maker\obj\Debug\netcoreapp3.1\Lab_3_decision_maker.AssemblyInfo.cs
+C:\Users\harre\source\repos\Lab_3_decision_maker\Lab_3_decision_maker\obj\Debug\netcoreapp3.1\Lab_3_decision_maker.csproj.CoreCompileInputs.cache
+C:\Users\harre\source\repos\Lab_3_decision_maker\Lab_3_decision_maker\obj\Debug\netcoreapp3.1\Lab_3_decision_maker.dll
+C:\Users\harre\source\repos\Lab_3_decision_maker\Lab_3_decision_maker\obj\Debug\netcoreapp3.1\Lab_3_decision_maker.pdb
+C:\Users\harre\source\repos\Lab_3_decision_maker\Lab_3_decision_maker\obj\Debug\netcoreapp3.1\Lab_3_decision_maker.genruntimeconfig.cache
